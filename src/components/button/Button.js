@@ -1,6 +1,8 @@
+import './Button.css';
+
 function Button() {
     return (
-        <button className="button">
+        <button className="Button">
             Enviar
         </button>
     );
