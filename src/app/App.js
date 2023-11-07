@@ -37,7 +37,7 @@ function App() {
         <Article
           src={imgArticle}
           alt="Imagem de um telescópio espacial"
-          text="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+          text="Esta terça-feira (7) entrou para a história da astronomia como o dia em que foram divulgadas as primeiras imagens científicas do Telescópio Espacial Euclid, da Agência Espacial Europeia (ESA). Os cientistas da missão se reuniram em Darmstadt, na Alemanha, para apresentar ao mundo e debater as cinco primeiras capturas operacionais coloridas do cosmos distante feitas pelo revolucionário equipamento, em uma live que teve início às 10h15 (pelo horário de Brasília), nas plataformas digitais da agência."
         />
 
         <aside>
